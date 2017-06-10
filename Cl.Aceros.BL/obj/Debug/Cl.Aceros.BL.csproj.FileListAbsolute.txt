@@ -1,0 +1,14 @@
+C:\Users\luis.benavides\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\bin\Debug\Cl.Aceros.BL.dll
+C:\Users\luis.benavides\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\bin\Debug\Cl.Aceros.BL.pdb
+C:\Users\luis.benavides\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.dll
+C:\Users\luis.benavides\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.pdb
+C:\Users\luis.benavides\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.csprojResolveAssemblyReference.cache
+C:\Users\NewUser\Google Drive\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\bin\Debug\Cl.Aceros.BL.dll
+C:\Users\NewUser\Google Drive\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\bin\Debug\Cl.Aceros.BL.pdb
+C:\Users\NewUser\Google Drive\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.csprojResolveAssemblyReference.cache
+C:\Users\NewUser\Google Drive\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.dll
+C:\Users\NewUser\Google Drive\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.pdb
+C:\Users\Luis\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\bin\Debug\Cl.Aceros.BL.dll
+C:\Users\Luis\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\bin\Debug\Cl.Aceros.BL.pdb
+C:\Users\Luis\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.dll
+C:\Users\Luis\Google Drive\Luis\U\Progra IV\Proyecto Programación 4\Preliminar\InventarioAcero.v3\Cl.Aceros.BL\obj\Debug\Cl.Aceros.BL.pdb
